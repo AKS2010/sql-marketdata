@@ -1,5 +1,5 @@
 Create table energytype
 (
-energytypecode		smallint	,
+energytypecode		smallint	 not null,
 energytypedesc		varchar(150)
 )
