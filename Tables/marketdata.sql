@@ -25,4 +25,4 @@ createdby			varchar(150)															,
 createddate			smalldatetime															,
 modifiedby			varchar(150)															,
 modifieddate		smalldatetime
-) 
+)   
