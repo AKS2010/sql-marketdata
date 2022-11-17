@@ -1,5 +1,5 @@
 ﻿
-Create table marketdata_backup
+Create table marketdata_backup11
 (
 datetimekey			smalldatetime	not null												,
 locationcode		smallint		not null references locationdet(locationcode)			,
